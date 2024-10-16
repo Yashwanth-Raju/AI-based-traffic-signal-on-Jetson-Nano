@@ -1,1 +1,0 @@
-# Smart-Zebra-crossing-Jetson-Nano
